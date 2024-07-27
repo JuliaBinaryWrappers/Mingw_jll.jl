@@ -1,0 +1,81 @@
+name = "Mingw"
+version = "11.0.0"
+julia_compat = "1.6"
+platform_augmentation_code = ""
+
+[[builds]]
+deps = []
+name = "Mingw"
+lazy = "false"
+src_version = "11.0.1"
+platform = "x86_64-w64-mingw32"
+
+    [builds.callback_defs]
+
+    [builds.auxilliary_artifacts.build_log]
+    treehash = "sha1:0a8f464fe8cd93e584d514db086dbccac5219d5f"
+
+        [[builds.auxilliary_artifacts.build_log.download_sources]]
+        tarball_hash = "sha256:557a54e1e1ca5b22463276d54ac0152b4e94ea5f97fa159ba5cd889365467527"
+        url = "https://github.com/JuliaBinaryWrappers/Mingw_jll.jl/releases/download/v11.0.0/Mingw-build_log-v11.0.0-x86_64-w64-mingw32.tar.gz"
+
+    [builds.auxilliary_artifacts.extract_log]
+    treehash = "sha1:c4aca9b5c801cd5a214cb4efaddcc8fb4bf0d92e"
+
+        [[builds.auxilliary_artifacts.extract_log.download_sources]]
+        tarball_hash = "sha256:0f50d186acf97347dc8644e236ef6a17da37a022bae34d44eeb4b72bda18caa3"
+        url = "https://github.com/JuliaBinaryWrappers/Mingw_jll.jl/releases/download/v11.0.0/Mingw-extract_log-v11.0.0-x86_64-w64-mingw32.tar.gz"
+
+    [[builds.products]]
+    name = "libmsvcrt_a"
+    type = "file"
+    path = "usr/lib/libmsvcrt.a"
+
+    [[builds.sources]]
+    treehash = "sha1:fc05e1af7513b31119bb9cb45f1c4efafc4901b1"
+    url = "https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/mingw-w64-v11.0.1.tar.bz2"
+
+    [builds.artifact]
+    treehash = "sha1:cdec265c08afe9044eadc8c9a0d9ecdff93d84f5"
+
+        [[builds.artifact.download_sources]]
+        tarball_hash = "sha256:f07be25d5787cd51821923484e19e0fcf1b942d0b299a13696558e89280d9ae0"
+        url = "https://github.com/JuliaBinaryWrappers/Mingw_jll.jl/releases/download/v11.0.0/Mingw-v11.0.0-x86_64-w64-mingw32.tar.gz"
+[[builds]]
+deps = []
+name = "Mingw"
+lazy = "false"
+src_version = "11.0.1"
+platform = "i686-w64-mingw32"
+
+    [builds.callback_defs]
+
+    [builds.auxilliary_artifacts.build_log]
+    treehash = "sha1:e13e5ef9194f8a4590bc994bce6544de64409886"
+
+        [[builds.auxilliary_artifacts.build_log.download_sources]]
+        tarball_hash = "sha256:d36c2db0190d4a70c662733dfc39c4093c3c16769e706dc82357528b4ef9d5dd"
+        url = "https://github.com/JuliaBinaryWrappers/Mingw_jll.jl/releases/download/v11.0.0/Mingw-build_log-v11.0.0-i686-w64-mingw32.tar.gz"
+
+    [builds.auxilliary_artifacts.extract_log]
+    treehash = "sha1:4ea3b0989436795c855d255185ebf83b51dac769"
+
+        [[builds.auxilliary_artifacts.extract_log.download_sources]]
+        tarball_hash = "sha256:fca6a6fea2ed059499a7d5228fbfb66b87c1bf8cb1b0c75d4ce41d43487d0e16"
+        url = "https://github.com/JuliaBinaryWrappers/Mingw_jll.jl/releases/download/v11.0.0/Mingw-extract_log-v11.0.0-i686-w64-mingw32.tar.gz"
+
+    [[builds.products]]
+    name = "libmsvcrt_a"
+    type = "file"
+    path = "usr/lib/libmsvcrt.a"
+
+    [[builds.sources]]
+    treehash = "sha1:fc05e1af7513b31119bb9cb45f1c4efafc4901b1"
+    url = "https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/mingw-w64-v11.0.1.tar.bz2"
+
+    [builds.artifact]
+    treehash = "sha1:91a2a2b769f2208c59346e62808c70a73b45ef40"
+
+        [[builds.artifact.download_sources]]
+        tarball_hash = "sha256:dad7a87b777db1d2b708e8fde15b512650ca9c628275c09ac1be6b48c1e1d376"
+        url = "https://github.com/JuliaBinaryWrappers/Mingw_jll.jl/releases/download/v11.0.0/Mingw-v11.0.0-i686-w64-mingw32.tar.gz"

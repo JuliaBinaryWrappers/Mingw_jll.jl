@@ -1,0 +1,54 @@
+[[Mingw]]
+arch = "x86_64"
+git-tree-sha1 = "cdec265c08afe9044eadc8c9a0d9ecdff93d84f5"
+os = "windows"
+
+    [[Mingw.download]]
+    sha256 = "f07be25d5787cd51821923484e19e0fcf1b942d0b299a13696558e89280d9ae0"
+    url = "https://github.com/JuliaBinaryWrappers/Mingw_jll.jl/releases/download/v11.0.0/Mingw-v11.0.0-x86_64-w64-mingw32.tar.gz"
+[[Mingw]]
+arch = "i686"
+git-tree-sha1 = "91a2a2b769f2208c59346e62808c70a73b45ef40"
+os = "windows"
+
+    [[Mingw.download]]
+    sha256 = "dad7a87b777db1d2b708e8fde15b512650ca9c628275c09ac1be6b48c1e1d376"
+    url = "https://github.com/JuliaBinaryWrappers/Mingw_jll.jl/releases/download/v11.0.0/Mingw-v11.0.0-i686-w64-mingw32.tar.gz"
+
+[[Mingw-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "0a8f464fe8cd93e584d514db086dbccac5219d5f"
+lazy = true
+os = "windows"
+
+    [[Mingw-build_log.download]]
+    sha256 = "557a54e1e1ca5b22463276d54ac0152b4e94ea5f97fa159ba5cd889365467527"
+    url = "https://github.com/JuliaBinaryWrappers/Mingw_jll.jl/releases/download/v11.0.0/Mingw-build_log-v11.0.0-x86_64-w64-mingw32.tar.gz"
+[[Mingw-build_log]]
+arch = "i686"
+git-tree-sha1 = "e13e5ef9194f8a4590bc994bce6544de64409886"
+lazy = true
+os = "windows"
+
+    [[Mingw-build_log.download]]
+    sha256 = "d36c2db0190d4a70c662733dfc39c4093c3c16769e706dc82357528b4ef9d5dd"
+    url = "https://github.com/JuliaBinaryWrappers/Mingw_jll.jl/releases/download/v11.0.0/Mingw-build_log-v11.0.0-i686-w64-mingw32.tar.gz"
+
+[[Mingw-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "c4aca9b5c801cd5a214cb4efaddcc8fb4bf0d92e"
+lazy = true
+os = "windows"
+
+    [[Mingw-extract_log.download]]
+    sha256 = "0f50d186acf97347dc8644e236ef6a17da37a022bae34d44eeb4b72bda18caa3"
+    url = "https://github.com/JuliaBinaryWrappers/Mingw_jll.jl/releases/download/v11.0.0/Mingw-extract_log-v11.0.0-x86_64-w64-mingw32.tar.gz"
+[[Mingw-extract_log]]
+arch = "i686"
+git-tree-sha1 = "4ea3b0989436795c855d255185ebf83b51dac769"
+lazy = true
+os = "windows"
+
+    [[Mingw-extract_log.download]]
+    sha256 = "fca6a6fea2ed059499a7d5228fbfb66b87c1bf8cb1b0c75d4ce41d43487d0e16"
+    url = "https://github.com/JuliaBinaryWrappers/Mingw_jll.jl/releases/download/v11.0.0/Mingw-extract_log-v11.0.0-i686-w64-mingw32.tar.gz"

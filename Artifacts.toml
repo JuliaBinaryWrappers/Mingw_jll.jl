@@ -1,54 +1,54 @@
 [[Mingw]]
 arch = "x86_64"
-git-tree-sha1 = "cdec265c08afe9044eadc8c9a0d9ecdff93d84f5"
+git-tree-sha1 = "dada5c943a98dbca8d2ce2b5ec3647033f54480b"
 os = "windows"
 
     [[Mingw.download]]
-    sha256 = "951af63a93dde47ae2e6970e2790c4ed3cee59087e423c464dda83a62ba38f16"
+    sha256 = "5d768b171778a3351eff3538b5a9486f3b6287274d1594e0f8685f2036b572bb"
     url = "https://github.com/JuliaBinaryWrappers/Mingw_jll.jl/releases/download/v11.0.0/Mingw-v11.0.0-x86_64-w64-mingw32.tar.gz"
 [[Mingw]]
 arch = "i686"
-git-tree-sha1 = "91a2a2b769f2208c59346e62808c70a73b45ef40"
+git-tree-sha1 = "3e3b024bb0877cd6cc70b2174a7d973c55cb4673"
 os = "windows"
 
     [[Mingw.download]]
-    sha256 = "a6b66e7e4148d144b06b6e9eff3891c43fc465f58c6880c3c65db8958896dfbb"
+    sha256 = "579ac74a66e55616ca0249d79cad1869e7b1b08b0322cc6262263fe6009bc664"
     url = "https://github.com/JuliaBinaryWrappers/Mingw_jll.jl/releases/download/v11.0.0/Mingw-v11.0.0-i686-w64-mingw32.tar.gz"
 
 [[Mingw-build_log]]
 arch = "x86_64"
-git-tree-sha1 = "0a8f464fe8cd93e584d514db086dbccac5219d5f"
+git-tree-sha1 = "bf8e51b4457931d622112282533e7a7e15af99b9"
 lazy = true
 os = "windows"
 
     [[Mingw-build_log.download]]
-    sha256 = "a77226f464f192ea83663e80eaacc842a8bf6e9c400932c41fc146fa56f637dc"
+    sha256 = "664716fe6d6261b73d2748c36a7218a56c4ee6630b518e004863c2dac5626f5b"
     url = "https://github.com/JuliaBinaryWrappers/Mingw_jll.jl/releases/download/v11.0.0/Mingw-build_log-v11.0.0-x86_64-w64-mingw32.tar.gz"
 [[Mingw-build_log]]
 arch = "i686"
-git-tree-sha1 = "e13e5ef9194f8a4590bc994bce6544de64409886"
+git-tree-sha1 = "d33a0bdce40a7e7f4f231e1af663e24114b3b1bb"
 lazy = true
 os = "windows"
 
     [[Mingw-build_log.download]]
-    sha256 = "ad19f01ac00ff9d407cd38b245bb4a9427a0a4743abe56e11057acde8fdb4a5e"
+    sha256 = "61f9426aca901b1466710b1dc6632bc1940fdfa8fa9e6d1ebb4af65bb11f9857"
     url = "https://github.com/JuliaBinaryWrappers/Mingw_jll.jl/releases/download/v11.0.0/Mingw-build_log-v11.0.0-i686-w64-mingw32.tar.gz"
 
 [[Mingw-extract_log]]
 arch = "x86_64"
-git-tree-sha1 = "c4aca9b5c801cd5a214cb4efaddcc8fb4bf0d92e"
+git-tree-sha1 = "6dcf597ae62eadf783dee7046c1f5799417623cf"
 lazy = true
 os = "windows"
 
     [[Mingw-extract_log.download]]
-    sha256 = "67933941dfb61d8f10cd26ea21cfdb1f8316577fe8054b62105c2ce281958c84"
+    sha256 = "d63825cede53360961c3157b303fd70492020a6d0b9777dfbc1dfd24d1f5df28"
     url = "https://github.com/JuliaBinaryWrappers/Mingw_jll.jl/releases/download/v11.0.0/Mingw-extract_log-v11.0.0-x86_64-w64-mingw32.tar.gz"
 [[Mingw-extract_log]]
 arch = "i686"
-git-tree-sha1 = "4ea3b0989436795c855d255185ebf83b51dac769"
+git-tree-sha1 = "3a3cdd5f02b25ee6b11289821540c82c340403e3"
 lazy = true
 os = "windows"
 
     [[Mingw-extract_log.download]]
-    sha256 = "9aa1eeb74f47563c7c7f463a566309b70e286e30ff33210a9301d04e4e80ac03"
+    sha256 = "af99cb9802569005f3d097ffde0edbdbe7ff8133b7f2e9c9c406a92e146d3491"
     url = "https://github.com/JuliaBinaryWrappers/Mingw_jll.jl/releases/download/v11.0.0/Mingw-extract_log-v11.0.0-i686-w64-mingw32.tar.gz"
